@@ -1,3 +1,31 @@
 title:            "Attaining Vision"
 description:      "Developer notebook of Daniel Alberto Cañas."
 #logo:             site-logo.png
+disqus_shortname:
+search:           true
+# Change url to your domain. Leave localhost server or blank when working locally.
+# You don't need to specify the protocol if you want it available on http and https. Example: //localhost:4000
+url:              "http://dacamo76.github.io"
+
+# Owner/author information
+owner:
+  name:           "Daniel Alberto Cañas"
+  avatar:         846bb87e41ead444942607d847fe46a7
+  email:          "daniel_76@yahoo.com"
+  # Social networking links used in footer. Update and remove as you like.
+  twitter:        dacamo76
+  facebook:
+  github:         dacamo76
+  stackexchange:  74976
+  linkedin:
+  instagram:
+  flickr:
+  tumblr:
+  # For Google Authorship https://plus.google.com/authorship
+  google_plus:    116829273000844440639
+
+# Analytics and webmaster tools stuff goes here
+google_analytics:
+google_verify:
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
